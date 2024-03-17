@@ -31,7 +31,8 @@ Pada Project ini mempelajari dasar python, seperti penggunaan model Regresi line
 
 - [@FIKRI AFRIZAL](https://www.kaggle.com/code/fikriafrizal/regresi-advertising-data)
 
-
+## Dataset
+- [@ASHISH](https://www.kaggle.com/datasets/ashydv/advertising-dataset)
 ## Status
 
 Project status : Completed
